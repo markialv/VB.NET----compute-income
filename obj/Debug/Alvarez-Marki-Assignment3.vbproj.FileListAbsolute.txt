@@ -1,0 +1,12 @@
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Alvarez-Marki-Assignment3\Alvarez-Marki-Assignment3\obj\Debug\Alvarez-Marki-Assignment3.vbprojAssemblyReference.cache
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Alvarez-Marki-Assignment3\Alvarez-Marki-Assignment3\obj\Debug\Alvarez_Marki_Assignment3.Form1.resources
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Alvarez-Marki-Assignment3\Alvarez-Marki-Assignment3\obj\Debug\Alvarez_Marki_Assignment3.Resources.resources
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Alvarez-Marki-Assignment3\Alvarez-Marki-Assignment3\obj\Debug\Alvarez-Marki-Assignment3.vbproj.GenerateResource.cache
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Alvarez-Marki-Assignment3\Alvarez-Marki-Assignment3\obj\Debug\Alvarez-Marki-Assignment3.vbproj.CoreCompileInputs.cache
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Alvarez-Marki-Assignment3\Alvarez-Marki-Assignment3\bin\Debug\Alvarez-Marki-Assignment3.exe.config
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Alvarez-Marki-Assignment3\Alvarez-Marki-Assignment3\bin\Debug\Alvarez-Marki-Assignment3.exe
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Alvarez-Marki-Assignment3\Alvarez-Marki-Assignment3\bin\Debug\Alvarez-Marki-Assignment3.pdb
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Alvarez-Marki-Assignment3\Alvarez-Marki-Assignment3\bin\Debug\Alvarez-Marki-Assignment3.xml
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Alvarez-Marki-Assignment3\Alvarez-Marki-Assignment3\obj\Debug\Alvarez-Marki-Assignment3.exe
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Alvarez-Marki-Assignment3\Alvarez-Marki-Assignment3\obj\Debug\Alvarez-Marki-Assignment3.xml
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Alvarez-Marki-Assignment3\Alvarez-Marki-Assignment3\obj\Debug\Alvarez-Marki-Assignment3.pdb
